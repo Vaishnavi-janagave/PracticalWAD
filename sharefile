@@ -1,0 +1,5 @@
+cd /media
+ls
+sudo mkdir mynewshare
+ls
+sudo mount -t vboxsf filename mynewshare
